@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! Eu sou o Arthur Parreira Ballogh
 
-<!--
-**ArthurBall10/ArthurBall10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Sobre mim</b>
 
-Here are some ideas to get you started:
+✔Certificados: AWS Academy Cloud Foundations, Google Cloud Skills Boost - CCAI Insights
+✔ Programação: HTML5, CSS, JavaScript, Python, C++ (Básico)
+✔ Banco de Dados: SQL (Básico)
+✔ Desenvolvimento Full Stack: Conhecimento em front-end e back-end
+✔ Idiomas: Inglês (Pré-Avançado – Capacidade de leitura e comunicação técnica), Espanhol (Intermediário)
+✔ Soft Skills: Proatividade, Trabalho em Equipe, Comunicação Eficaz, Facilidade de Aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 Contato: (11) 97585-0710
+📧 E-mail: arthurball04@gmail.com
+
+##
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href - "https://www.linkedin.com/in/arthur-parreira-ballogh-9765961ab/" target-"_blank"><img src= 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target-"_blank">
+  </a>
+</div>
