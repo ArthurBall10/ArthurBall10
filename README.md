@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">💻 Sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie
+</p>
 
 ###
 
