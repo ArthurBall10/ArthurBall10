@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/arthur-parreira-ballogh-9765961ab/)" height="40" alt="linkedin logo"  />
 </div>
 
 ###
