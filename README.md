@@ -13,6 +13,7 @@
 
 <p align="left">✔Certificados: AWS Academy Cloud Foundations, Google Cloud Skills Boost - CCAI Insights<br>✔ Programação: HTML5, CSS, JavaScript, Python, C++ (Básico)<br>✔ Banco de Dados: SQL (Básico)<br>✔ Desenvolvimento Full Stack: Conhecimento em front-end e back-end<br>✔ Idiomas: Inglês (Pré-Avançado – Capacidade de leitura e comunicação técnica), Espanhol (Intermediário)<br>✔ Soft Skills: Proatividade, Trabalho em Equipe, Comunicação Eficaz, Facilidade de Aprendizado<br>📞 Contato: (11) 97585-0710<br>📧 E-mail: arthurball04@gmail.com</p>
 
+###
 
 ###
 
